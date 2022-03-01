@@ -1,0 +1,2 @@
+# twn
+Turkish Wordnet
